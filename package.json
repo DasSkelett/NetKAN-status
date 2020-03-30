@@ -16,7 +16,7 @@
     "fixed-data-table": "^0.6.5",
     "jquery": "^3.4.1",
     "moment": "~2.18.1",
-    "rc-menu": "^7.5.3",
+    "rc-menu": "^8.0.3",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "require": "~2",
